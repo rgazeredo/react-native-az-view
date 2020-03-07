@@ -5,13 +5,33 @@
 
 A custom scrollview with loading spinner.
 
+## Table of Contents
+
+- [Install](#install)
+- [Options](#options)
+- [Contributors](#contributors)
+- [License](#license)
+
+## Install
+
+[npm][]:
+
+```sh
+npm install rreact-native-az-view
+```
+
+[yarn][]:
+
+````sh
+yarn add react-native-az-view
+
 ```sh
 import {AzView} from 'react-native-az-view';
 ...
 <AzView isLoading={this.state.isLoading}>
     ...
 </AzView>
-```
+````
 
 ## Options
 
@@ -30,3 +50,8 @@ import {AzView} from 'react-native-az-view';
 ## License
 
 [MIT](LICENSE) © Raphael Azeredo
+
+##
+
+[npm]: https://www.npmjs.com/
+[yarn]: https://yarnpkg.com/
