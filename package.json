@@ -1,6 +1,6 @@
 {
   "name": "react-native-az-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom scrollview with loading spinner",
   "main": "index.js",
   "scripts": {
