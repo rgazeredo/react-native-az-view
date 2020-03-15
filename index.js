@@ -1,3 +1,3 @@
 import AzView from "./src/AzView";
 
-export { AzView };
+export default AzView;
